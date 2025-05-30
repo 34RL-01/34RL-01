@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @34RL-01
-- 👀 I’m interested in Web Development,Mobile App Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 Web Developer ,Mobile App Development
+- 🌱 I’m currently learning HTML&CSS, JavaScript, Node.Js, React
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me likee34rl@gmail.com
 
