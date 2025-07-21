@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @34RL-01
-- 👀 Web Developer ,Mobile App Development
-- 🌱 HTML&CSS, JavaScript, Node.Js, React
+- 👀 Web Developer ,
+- 🌱 HTML&CSS, JavaScript, Node.Js, React, Next.js
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me likee34rl@gmail.com
 
