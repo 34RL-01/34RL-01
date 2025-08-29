@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @34RL-01
-- 👀 Web Developer ,
-- 🌱 HTML&CSS, JavaScript, Node.Js, React, Next.js
-- 💞️ I’m looking to collaborate on open-source projects
+- Hi, I’m @34RL-01
+- Web Developer ,
+- HTML&CSS, JavaScript, Node.Js, React, Next.js
+- I’m looking to collaborate on open-source projects
 - 📫 How to reach me likee34rl@gmail.com
 
 <!---
